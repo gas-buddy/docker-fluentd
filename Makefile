@@ -1,4 +1,4 @@
-IMAGENAME = gasbuddy/fluentd-elastic
+IMAGENAME = gasbuddy/fluentd-elastic:haproxy
 
 all: build
 
